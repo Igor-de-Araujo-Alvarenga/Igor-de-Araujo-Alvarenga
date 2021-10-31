@@ -12,8 +12,8 @@
 - CSS ( bootstrap );
 - JavaScript ( React JS);
 #### Back-End
-- PHP 
-- C# - ( .NET Core );
+- PHP  - Intermediate knowledge/
+- C# - ( .NET Core ) Learning ;
 #### Banco de dados
 - MySql ( SGBD : PHPMyAdmin );
 - SQL Server ( SSMS );
