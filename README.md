@@ -10,10 +10,10 @@
 #### Front-End  
 - HTML e HTML semantic;
 - CSS ( bootstrap );
-- JavaScript ( React JS);
+- JavaScript;
 #### Back-End
 - PHP  - Intermediate knowledge/
-- C# - ( .NET Core ) Learning ;
+- C# - ( .NET Core );
 #### Banco de dados
 - MySql ( SGBD : PHPMyAdmin );
 - SQL Server ( SSMS );
@@ -21,6 +21,13 @@
 
 #### Other tools :hammer_and_wrench:
 - Postman 
+- EFCore
+- XUnity
+- Selenium
+- MVC
+- MVVM
+- SOLID
+- Arquitetura em câmadas
 
 
 
