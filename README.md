@@ -26,8 +26,9 @@
 - XUnity
 - Selenium
 - Robot Framework
+- AWS - Learning... 
 
-#### Design Patterns
+#### Patterns
 - MVC
 - MVVM
 - SOLID
