@@ -8,26 +8,30 @@
 ## Domain technologies :man_technologist:
 
 #### Front-End  
-- HTML e HTML semantic;
-- CSS ( bootstrap );
+- HTML5;
+- CSS and bootstrap;
 - JavaScript;
 #### Back-End
 - PHP  - Intermediate knowledge/
-- C# - ( .NET Core );
-#### Banco de dados
-- MySql ( SGBD : PHPMyAdmin );
-- SQL Server ( SSMS );
-- Mongo DB ( Robo 3T );
+- C# - Intermediate knowledge;
+- NodeJs with Typescript
+#### Data base
+- MySql;
+- SQL Server;
+- Mongo DB;
 
 #### Other tools :hammer_and_wrench:
 - Postman 
 - EFCore
 - XUnity
 - Selenium
+- Robot Framework
+
+#### Design Patterns
 - MVC
 - MVVM
 - SOLID
-- Arquitetura em câmadas
+- Micro services
 
 
 
