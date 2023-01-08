@@ -11,10 +11,10 @@
 - HTML5;
 - CSS and bootstrap;
 - JavaScript;
+- React;
 #### Back-End
-- PHP  - Intermediate knowledge/
 - C# - Intermediate knowledge;
-- NodeJs with Typescript
+- NodeJs with Typescript;
 #### Data base
 - MySql;
 - SQL Server;
@@ -26,11 +26,10 @@
 - XUnity
 - Selenium
 - Robot Framework
-- AWS - Learning... 
 
 #### Patterns
 - MVC
-- MVVM
+- REST APIs
 - SOLID
 - Micro services
 
