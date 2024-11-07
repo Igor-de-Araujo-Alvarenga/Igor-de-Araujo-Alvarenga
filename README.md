@@ -4,9 +4,9 @@ I thrive on solve complex problems with innovative solutions. With strong founda
 
 ## Core skills
 
-- <b>Languages:<b/> C#, Python, Javascript;
-- <b>Frameworks:<b/> .NET Core, .NET Framework;
-- <b>Archtecture & Patterns:<b/>
+- **Languages:** C#, Python, Javascript;
+- **Frameworks:** .NET Core, .NET Framework;
+- **Archtecture & Patterns:**
     - Microservices;
     - Event-driven architecture for responsive, real-time systems;
     - Model-View-Controller (MVC);
@@ -14,7 +14,7 @@ I thrive on solve complex problems with innovative solutions. With strong founda
  
 ## Expertise in AI & Machine Learning:
 
-- <b>Vehicle Position Recognition: <b/> Ensuring accurate vehicle positioning in various environments;
-- <b>Object Detection:<b/> Identifying and categorizing objects with high precision
-- <b>Fraud Detection in Image Verification:<b/> Recognizing fraudulent submissions through image processing
-- Vehicle Identification: Leveraging computer vision for robust vehicle classification
+- **Vehicle Position Recognition:** Ensuring accurate vehicle positioning in various environments;
+- **Object Detection:** Identifying and categorizing objects with high precision
+- **Fraud Detection in Image Verification:** Recognizing fraudulent submissions through image processing
+- **Vehicle Identification:** Leveraging computer vision for robust vehicle classification
